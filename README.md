@@ -16,3 +16,12 @@ git clone https://github.com/Ceecee7/MyProject_07.git
 cd MyProject_07
 pip install -r requirements.txt
 python main.py
+
+
+## 项目结构
+MyProject_07/
+├── main.py
+├── requirements.txt
+├── docs/
+│   └── 项目设计文档.md
+└── LICENSE
